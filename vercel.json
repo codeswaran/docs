@@ -1,0 +1,4 @@
+{
+  "devCommand": "mintlify dev",
+  "installCommand": "npm i -g mintlify@latest && mintlify install"
+}
